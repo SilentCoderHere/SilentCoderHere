@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prem Singh
 - 👀 I’m interested in Python programming
 - 🌱 I’m currently studing in class 11th
-- 📫 How to reach me Itz_Prem_Singh@duck.com
+- 📫 How to reach me itzpremsingh@duck.com
 - ⚡ Fun fact: Life is joke
 - ♥️ Love you
 
