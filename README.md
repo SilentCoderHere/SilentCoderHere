@@ -72,4 +72,4 @@ I’ve been actively contributing and building using Codeium to enhance my codin
 
 ---
 
-> _"Life is a joke."_ - Prem Singh
+> _"Life is joke."_ - Prem Singh
