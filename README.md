@@ -22,7 +22,7 @@ I have strong expertise in Python and I use it for various tasks, from real worl
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-I have a solid foundation in web development, including HTML5, CSS3, and JavaScript.
+I have a basic foundation in web development, including HTML5, CSS3, and JavaScript.
 
 I build responsive and interactive websites using HTML5, CSS3, and JavaScript to create a seamless user experience.
 
