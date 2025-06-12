@@ -31,14 +31,6 @@ Feel free to explore my projects on my [Personal Website](https://itzpremsingh.g
 
 ---
 
-## Achievements
-
-### Codeium Contributions
-
-I've been actively contributing to Codeium, which has enhanced my coding experience and productivity.
-
----
-
 ## About Me
 
 - I'm a **passionate programmer** who is always eager to learn and grow.
