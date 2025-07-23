@@ -1,4 +1,4 @@
-# Welcome to Prem Singh's GitHub
+# Welcome
 
 Hi there! I'm **Prem Singh**, a passionate programmer who loves taking on new challenges and opportunities for growth. My main area of expertise is Python, and I'm also diving into the exciting fields of machine learning and artificial intelligence.
 
