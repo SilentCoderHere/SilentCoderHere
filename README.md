@@ -47,7 +47,7 @@ It includes open-source work, tools, and creative experiments.
 ## Get in Touch
 
 - **Website:** [itzpremsingh.github.io](https://itzpremsingh.github.io/website)  
-- **Email:** itzpremsingh@duck.com
+- **Email:** premsingh@tuta.io
 
 ---
 
