@@ -51,4 +51,4 @@ It includes open-source work, tools, and creative experiments.
 
 ---
 
-> _"Life is a joke"_ — **Prem Singh**
+> _"Life is a joke"_ ~ **Prem Singh**
