@@ -1,0 +1,36 @@
+name: Update Latest Projects (Manual Test)
+
+on:
+  workflow_dispatch:   # run manually from Actions tab
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # allow push with default token
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Get latest repos
+        run: |
+          echo "Fetching latest repos..."
+          REPOS=$(curl -s "https://api.github.com/users/${GITHUB_REPOSITORY_OWNER}/repos?sort=updated&per_page=3" \
+            | grep '"name"' | cut -d '"' -f4)
+          CONTENT="### 🔥 Latest Projects\n<!--PROJECTS_SECTION_START-->\n"
+          for REPO in $REPOS; do
+            URL="https://github.com/${GITHUB_REPOSITORY_OWNER}/$REPO"
+            CONTENT="$CONTENT- [$REPO]($URL)\n"
+          done
+          CONTENT="$CONTENT<!--PROJECTS_SECTION_END-->"
+          sed -i "/<!--PROJECTS_SECTION_START-->/, /<!--PROJECTS_SECTION_END-->/c$CONTENT" README.md
+
+      - name: Commit and push as The Silent Bot
+        run: |
+          git config user.name "The Silent Bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && echo "No changes to commit" && exit 0
+          git commit -m "Update latest projects (manual)"
+          git push
