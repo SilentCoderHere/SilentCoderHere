@@ -29,7 +29,7 @@ I'm learning to build smart systems that can:
 ## Projects & Contributions
 
 You can view my projects and contributions on  
-**[My Website → itzpremsingh.github.io](https://silentcoderhere.github.io/website)**
+**[My Website](https://silentcoderhere.github.io/website)**
 
 It includes open-source work, tools, and creative experiments.
 
@@ -46,7 +46,6 @@ It includes open-source work, tools, and creative experiments.
 
 ## Get in Touch
 
-- **Website:** [itzpremsingh.github.io](https://itzpremsingh.github.io/website)  
 - **Email:** premsingh@tuta.io
 
 ---
