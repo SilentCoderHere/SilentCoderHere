@@ -44,10 +44,4 @@ It includes open-source work, tools, and creative experiments.
 
 ---
 
-## Get in Touch
-
-- **Email:** premsingh@tuta.io
-
----
-
 > _"Life is a joke"_ ~ **Prem Singh**
