@@ -1,6 +1,6 @@
 <h1 align="center">Welcome</h1>
 
-Hi there! I'm **Prem Singh**, a passionate programmer who enjoys solving problems and constantly learning.  
+Hi there! I'm **Silent Coder**, a passionate programmer who enjoys solving problems and constantly learning.  
 I specialize in **Python programming** and am actively exploring **Machine Learning** and **Artificial Intelligence**.
 
 ---
@@ -44,4 +44,4 @@ It includes open-source work, tools, and creative experiments.
 
 ---
 
-> _"Life is a joke"_ ~ **Prem Singh**
+> _"Life is a joke"_ ~ **Silent Coder**
