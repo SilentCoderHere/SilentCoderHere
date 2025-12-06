@@ -1,44 +1,42 @@
 <h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Hi there! I'm **Silent Coder**, a passionate programmer who enjoys solving problems and constantly learning.  
-I specialize in **Python programming** and am actively exploring **Machine Learning** and **Artificial Intelligence**.
+<p align="center">
+  <strong>Silent Coder</strong><br>
+  Python Developer • Problem Solver
+</p>
 
 ---
 
-## Skills & Technologies
+## 👨‍💻 About Me
 
-### Python
+Hi! I'm **Silent Coder**. I enjoy writing clean, purposeful code and building tools that actually make life easier.  
 
-Python is my primary language. I use it for:
-
-- Real-world applications  
-- Coding challenges  
-- Automation scripts
-
-### Machine Learning & AI *(Currently Exploring)*
-
-I'm learning to build smart systems that can:
-
-- Learn from data (ML models)  
-- Understand text (NLP)
+Most of my work revolves around Python, and I’m always looking for better ways to break problems down and solve them with simple, practical solutions.
 
 ---
 
-## Projects & Contributions
+## 🔧 What I Work With
 
-You can view my projects and contributions on  
-**[My Website](https://silentcoderhere.github.io/website)**
-
-It includes open-source work, tools, and creative experiments.
-
----
-
-## About Me
-
-- Passionate about clean, efficient code  
-- Strong foundation in **Python programming**  
-- Focused on building real-world solutions  
+### 🐍 Python  
+I use Python for:
+- Building small applications and utilities  
+- Solving coding challenges  
+- Automating everyday tasks  
+- Experimenting with ideas that spark curiosity  
 
 ---
 
-> _"Life is a joke"_ ~ **Silent Coder**
+## 📂 Projects
+
+You can explore everything I’ve built here:  
+👉 **[SilentCoderHere.github.io](https://silentcoderhere.github.io/website)**
+
+---
+
+## 📬 Contact  
+If you want to reach out or collaborate:  
+**Email:** silentcoder@tutamail.com
+
+---
+
+> _"Life is a joke"_ — **Silent Coder**
