@@ -1,4 +1,4 @@
-<h1 align="center">Welcome</h1>
+<h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 Hi there! I'm **Silent Coder**, a passionate programmer who enjoys solving problems and constantly learning.  
 I specialize in **Python programming** and am actively exploring **Machine Learning** and **Artificial Intelligence**.
@@ -13,16 +13,14 @@ Python is my primary language. I use it for:
 
 - Real-world applications  
 - Coding challenges  
-- Machine learning solutions  
+- Automation scripts
 
 ### Machine Learning & AI *(Currently Exploring)*
 
 I'm learning to build smart systems that can:
 
 - Learn from data (ML models)  
-- Understand text (NLP)  
-- Process images  
-- Make decisions with trained AI models  
+- Understand text (NLP)
 
 ---
 
@@ -38,9 +36,8 @@ It includes open-source work, tools, and creative experiments.
 ## About Me
 
 - Passionate about clean, efficient code  
-- Strong foundation in **Python development**  
+- Strong foundation in **Python programming**  
 - Focused on building real-world solutions  
-- Continuously learning new technologies in **AI** and **automation**
 
 ---
 
